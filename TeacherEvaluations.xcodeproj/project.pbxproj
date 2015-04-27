@@ -7,6 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F006387919B6824500E7F8B1 /* ProfessionalViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F006387819B6824500E7F8B1 /* ProfessionalViewController.m */; };
+		F006387C19B6888000E7F8B1 /* LearningViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F006387B19B6888000E7F8B1 /* LearningViewController.m */; };
+		F016A24419B2C48C000BEDE6 /* StudentEngagementViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F016A24319B2C48C000BEDE6 /* StudentEngagementViewController.m */; };
+		F016A24619B2CFA4000BEDE6 /* Jupiter.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F016A24519B2CFA4000BEDE6 /* Jupiter.jpg */; };
+		F016A24819B2CFAB000BEDE6 /* mercury.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F016A24719B2CFAB000BEDE6 /* mercury.jpg */; };
+		F016A24A19B2CFB3000BEDE6 /* mars.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F016A24919B2CFB3000BEDE6 /* mars.jpg */; };
+		F016A24C19B2CFBC000BEDE6 /* Neptune.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F016A24B19B2CFBC000BEDE6 /* Neptune.jpg */; };
+		F016A24E19B2CFC8000BEDE6 /* saturn.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F016A24D19B2CFC8000BEDE6 /* saturn.jpg */; };
+		F016A25019B2CFD7000BEDE6 /* uranus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F016A24F19B2CFD7000BEDE6 /* uranus.jpg */; };
+		F016A25219B2CFDE000BEDE6 /* venusglobe.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F016A25119B2CFDE000BEDE6 /* venusglobe.jpg */; };
+		F037E09E19B2695C00504A0E /* net_addimage_dropdownmenuAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F037E09919B2695C00504A0E /* net_addimage_dropdownmenuAppDelegate.m */; };
+		F037E09F19B2695C00504A0E /* net_addimage_dropdownmenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F037E09B19B2695C00504A0E /* net_addimage_dropdownmenuViewController.m */; };
+		F037E0A019B2695C00504A0E /* UIDropDownMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = F037E09D19B2695C00504A0E /* UIDropDownMenu.m */; };
+		F037E0A319B26F2B00504A0E /* StandardsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F037E0A219B26F2B00504A0E /* StandardsViewController.m */; };
+		F037E0A619B2735600504A0E /* PurposeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F037E0A519B2735600504A0E /* PurposeViewController.m */; };
+		F04F04F819A04E5C00FFAAAB /* nebula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F04F04F719A04E5C00FFAAAB /* nebula.jpg */; };
+		F04F04FA19A04F3200FFAAAB /* hubble.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F04F04F919A04F3200FFAAAB /* hubble.jpg */; };
+		F04F04FC19A04F9500FFAAAB /* space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F04F04FB19A04F9500FFAAAB /* space.jpg */; };
+		F04F050219A06D9000FFAAAB /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F04F050119A06D9000FFAAAB /* AddViewController.m */; };
+		F0543405199339300023F3BC /* LoggedInController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0543404199339300023F3BC /* LoggedInController.m */; };
+		F054DA8219B2D5BB00377D72 /* CurriculumViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F054DA8119B2D5BB00377D72 /* CurriculumViewController.m */; };
+		F070E95419A10FD10030D9B7 /* EvaluationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F070E95319A10FD10030D9B7 /* EvaluationViewController.m */; };
+		F0960FE3199F0D0600FA5C7B /* Logo.png in Resources */ = {isa = PBXBuildFile; fileRef = F0960FE2199F0D0600FA5C7B /* Logo.png */; };
+		F0960FE5199F0D5000FA5C7B /* sound_of_space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0960FE4199F0D4F00FA5C7B /* sound_of_space.jpg */; };
+		F0B56A8B199FF3640043CE2B /* SchoolTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B56A8A199FF3640043CE2B /* SchoolTableViewController.m */; };
+		F0B56A8E199FF62F0043CE2B /* SchoolTableCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B56A8D199FF62F0043CE2B /* SchoolTableCell.m */; };
+		F0B56A97199FFBAD0043CE2B /* SmallEHS12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A8F199FFBAD0043CE2B /* SmallEHS12.jpg */; };
+		F0B56A98199FFBAD0043CE2B /* SmallUME11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A90199FFBAD0043CE2B /* SmallUME11.jpg */; };
+		F0B56A99199FFBAD0043CE2B /* SmallNorth11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A91199FFBAD0043CE2B /* SmallNorth11.jpg */; };
+		F0B56A9A199FFBAD0043CE2B /* SmallClark1a1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A92199FFBAD0043CE2B /* SmallClark1a1.jpg */; };
+		F0B56A9B199FFBAD0043CE2B /* SmallAspen11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A93199FFBAD0043CE2B /* SmallAspen11.jpg */; };
+		F0B56A9C199FFBAD0043CE2B /* SmallEMS11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A94199FFBAD0043CE2B /* SmallEMS11.jpg */; };
+		F0B56A9D199FFBAD0043CE2B /* SmallDMS11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A95199FFBAD0043CE2B /* SmallDMS11.jpg */; };
+		F0B56A9E199FFBAD0043CE2B /* small_1_HHS_Front.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0B56A96199FFBAD0043CE2B /* small_1_HHS_Front.jpg */; };
+		F0B56AAA19A01E720043CE2B /* TeacherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B56AA919A01E720043CE2B /* TeacherViewController.m */; };
+		F0B56AAD19A024430043CE2B /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0B56AAC19A024430043CE2B /* MenuViewController.m */; };
+		F0BCBDC419A1104200854C92 /* IntakeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BCBDC319A1104200854C92 /* IntakeViewController.m */; };
+		F0BCBDC719A115E900854C92 /* FormativeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BCBDC619A115E900854C92 /* FormativeViewController.m */; };
+		F0BCBDCA19A1160A00854C92 /* LessonViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BCBDC919A1160A00854C92 /* LessonViewController.m */; };
+		F0BCBDCD19A1162500854C92 /* SummativeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BCBDCC19A1162500854C92 /* SummativeViewController.m */; };
+		F0BCBDD019A1167500854C92 /* SummaryViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0BCBDCF19A1167500854C92 /* SummaryViewController.m */; };
+		F0BCBDD719A11D2800854C92 /* orionnebula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0BCBDD119A11D2800854C92 /* orionnebula.jpg */; };
+		F0BCBDD819A11D2800854C92 /* Battlestar-Galactica-ship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0BCBDD219A11D2800854C92 /* Battlestar-Galactica-ship.jpg */; };
+		F0BCBDD919A11D2800854C92 /* Stars.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0BCBDD319A11D2800854C92 /* Stars.jpg */; };
+		F0BCBDDA19A11D2800854C92 /* VolcanoNebula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0BCBDD419A11D2800854C92 /* VolcanoNebula.jpg */; };
+		F0BCBDDB19A11D2800854C92 /* flamenebula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0BCBDD519A11D2800854C92 /* flamenebula.jpg */; };
+		F0BCBDDC19A11D2800854C92 /* swirlingnebula.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0BCBDD619A11D2800854C92 /* swirlingnebula.jpg */; };
+		F0CAE3131AE0DA5C009682CC /* mainbuilding.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0CAE3121AE0DA5C009682CC /* mainbuilding.jpg */; };
+		F0CAE3151AE0DAD8009682CC /* uinta1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F0CAE3141AE0DAD8009682CC /* uinta1.jpg */; };
+		F0DE414519B668AA00B6F15D /* AssessmentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0DE414419B668AA00B6F15D /* AssessmentViewController.m */; };
+		F0DE414819B66E6100B6F15D /* ClassroomViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0DE414719B66E6100B6F15D /* ClassroomViewController.m */; };
+		F0EE0A141AB1FEBE0081042B /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0EE0A131AB1FEBE0081042B /* MessageUI.framework */; };
 		F0FFF6D219749EE200FE53CD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0FFF6D119749EE200FE53CD /* Foundation.framework */; };
 		F0FFF6D419749EE200FE53CD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0FFF6D319749EE200FE53CD /* CoreGraphics.framework */; };
 		F0FFF6D619749EE200FE53CD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0FFF6D519749EE200FE53CD /* UIKit.framework */; };
@@ -16,7 +68,6 @@
 		F0FFF6E519749EE200FE53CD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0FFF6E319749EE200FE53CD /* Main.storyboard */; };
 		F0FFF6E819749EE200FE53CD /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F0FFF6E719749EE200FE53CD /* ViewController.m */; };
 		F0FFF6EA19749EE200FE53CD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F0FFF6E919749EE200FE53CD /* Images.xcassets */; };
-		F0FFF6F119749EE200FE53CD /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0FFF6F019749EE200FE53CD /* XCTest.framework */; };
 		F0FFF6F219749EE200FE53CD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0FFF6D119749EE200FE53CD /* Foundation.framework */; };
 		F0FFF6F319749EE200FE53CD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F0FFF6D519749EE200FE53CD /* UIKit.framework */; };
 		F0FFF6FB19749EE200FE53CD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F0FFF6F919749EE200FE53CD /* InfoPlist.strings */; };
@@ -34,6 +85,81 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F006387719B6824500E7F8B1 /* ProfessionalViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ProfessionalViewController.h; sourceTree = "<group>"; };
+		F006387819B6824500E7F8B1 /* ProfessionalViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ProfessionalViewController.m; sourceTree = "<group>"; };
+		F006387A19B6888000E7F8B1 /* LearningViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LearningViewController.h; sourceTree = "<group>"; };
+		F006387B19B6888000E7F8B1 /* LearningViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LearningViewController.m; sourceTree = "<group>"; };
+		F016A24219B2C48C000BEDE6 /* StudentEngagementViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StudentEngagementViewController.h; sourceTree = "<group>"; };
+		F016A24319B2C48C000BEDE6 /* StudentEngagementViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudentEngagementViewController.m; sourceTree = "<group>"; };
+		F016A24519B2CFA4000BEDE6 /* Jupiter.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Jupiter.jpg; sourceTree = "<group>"; };
+		F016A24719B2CFAB000BEDE6 /* mercury.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mercury.jpg; sourceTree = "<group>"; };
+		F016A24919B2CFB3000BEDE6 /* mars.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mars.jpg; sourceTree = "<group>"; };
+		F016A24B19B2CFBC000BEDE6 /* Neptune.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Neptune.jpg; sourceTree = "<group>"; };
+		F016A24D19B2CFC8000BEDE6 /* saturn.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = saturn.jpg; sourceTree = "<group>"; };
+		F016A24F19B2CFD7000BEDE6 /* uranus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = uranus.jpg; sourceTree = "<group>"; };
+		F016A25119B2CFDE000BEDE6 /* venusglobe.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = venusglobe.jpg; sourceTree = "<group>"; };
+		F037E09819B2695C00504A0E /* net_addimage_dropdownmenuAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = net_addimage_dropdownmenuAppDelegate.h; path = ../net_addimage_dropdownmenuAppDelegate.h; sourceTree = "<group>"; };
+		F037E09919B2695C00504A0E /* net_addimage_dropdownmenuAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = net_addimage_dropdownmenuAppDelegate.m; path = ../net_addimage_dropdownmenuAppDelegate.m; sourceTree = "<group>"; };
+		F037E09A19B2695C00504A0E /* net_addimage_dropdownmenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = net_addimage_dropdownmenuViewController.h; path = ../net_addimage_dropdownmenuViewController.h; sourceTree = "<group>"; };
+		F037E09B19B2695C00504A0E /* net_addimage_dropdownmenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = net_addimage_dropdownmenuViewController.m; path = ../net_addimage_dropdownmenuViewController.m; sourceTree = "<group>"; };
+		F037E09C19B2695C00504A0E /* UIDropDownMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = UIDropDownMenu.h; path = ../UIDropDownMenu.h; sourceTree = "<group>"; };
+		F037E09D19B2695C00504A0E /* UIDropDownMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = UIDropDownMenu.m; path = ../UIDropDownMenu.m; sourceTree = "<group>"; };
+		F037E0A119B26F2B00504A0E /* StandardsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StandardsViewController.h; sourceTree = "<group>"; };
+		F037E0A219B26F2B00504A0E /* StandardsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StandardsViewController.m; sourceTree = "<group>"; };
+		F037E0A419B2735600504A0E /* PurposeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PurposeViewController.h; sourceTree = "<group>"; };
+		F037E0A519B2735600504A0E /* PurposeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PurposeViewController.m; sourceTree = "<group>"; };
+		F04F04F719A04E5C00FFAAAB /* nebula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nebula.jpg; sourceTree = "<group>"; };
+		F04F04F919A04F3200FFAAAB /* hubble.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hubble.jpg; sourceTree = "<group>"; };
+		F04F04FB19A04F9500FFAAAB /* space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = space.jpg; sourceTree = "<group>"; };
+		F04F050019A06D9000FFAAAB /* AddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddViewController.h; sourceTree = "<group>"; };
+		F04F050119A06D9000FFAAAB /* AddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddViewController.m; sourceTree = "<group>"; };
+		F0543403199339300023F3BC /* LoggedInController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoggedInController.h; sourceTree = "<group>"; };
+		F0543404199339300023F3BC /* LoggedInController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoggedInController.m; sourceTree = "<group>"; };
+		F054DA8019B2D5BB00377D72 /* CurriculumViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CurriculumViewController.h; sourceTree = "<group>"; };
+		F054DA8119B2D5BB00377D72 /* CurriculumViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CurriculumViewController.m; sourceTree = "<group>"; };
+		F070E95219A10FD10030D9B7 /* EvaluationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EvaluationViewController.h; sourceTree = "<group>"; };
+		F070E95319A10FD10030D9B7 /* EvaluationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EvaluationViewController.m; sourceTree = "<group>"; };
+		F0960FE2199F0D0600FA5C7B /* Logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Logo.png; sourceTree = "<group>"; };
+		F0960FE4199F0D4F00FA5C7B /* sound_of_space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sound_of_space.jpg; sourceTree = "<group>"; };
+		F0B56A89199FF3640043CE2B /* SchoolTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SchoolTableViewController.h; sourceTree = "<group>"; };
+		F0B56A8A199FF3640043CE2B /* SchoolTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SchoolTableViewController.m; sourceTree = "<group>"; };
+		F0B56A8C199FF62F0043CE2B /* SchoolTableCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SchoolTableCell.h; sourceTree = "<group>"; };
+		F0B56A8D199FF62F0043CE2B /* SchoolTableCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SchoolTableCell.m; sourceTree = "<group>"; };
+		F0B56A8F199FFBAD0043CE2B /* SmallEHS12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SmallEHS12.jpg; sourceTree = "<group>"; };
+		F0B56A90199FFBAD0043CE2B /* SmallUME11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SmallUME11.jpg; sourceTree = "<group>"; };
+		F0B56A91199FFBAD0043CE2B /* SmallNorth11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SmallNorth11.jpg; sourceTree = "<group>"; };
+		F0B56A92199FFBAD0043CE2B /* SmallClark1a1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SmallClark1a1.jpg; sourceTree = "<group>"; };
+		F0B56A93199FFBAD0043CE2B /* SmallAspen11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SmallAspen11.jpg; sourceTree = "<group>"; };
+		F0B56A94199FFBAD0043CE2B /* SmallEMS11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SmallEMS11.jpg; sourceTree = "<group>"; };
+		F0B56A95199FFBAD0043CE2B /* SmallDMS11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SmallDMS11.jpg; sourceTree = "<group>"; };
+		F0B56A96199FFBAD0043CE2B /* small_1_HHS_Front.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = small_1_HHS_Front.jpg; sourceTree = "<group>"; };
+		F0B56AA819A01E720043CE2B /* TeacherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TeacherViewController.h; sourceTree = "<group>"; };
+		F0B56AA919A01E720043CE2B /* TeacherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TeacherViewController.m; sourceTree = "<group>"; };
+		F0B56AAB19A024420043CE2B /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
+		F0B56AAC19A024430043CE2B /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
+		F0BCBDC219A1104200854C92 /* IntakeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IntakeViewController.h; sourceTree = "<group>"; };
+		F0BCBDC319A1104200854C92 /* IntakeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IntakeViewController.m; sourceTree = "<group>"; };
+		F0BCBDC519A115E900854C92 /* FormativeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FormativeViewController.h; sourceTree = "<group>"; };
+		F0BCBDC619A115E900854C92 /* FormativeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FormativeViewController.m; sourceTree = "<group>"; };
+		F0BCBDC819A1160A00854C92 /* LessonViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LessonViewController.h; sourceTree = "<group>"; };
+		F0BCBDC919A1160A00854C92 /* LessonViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LessonViewController.m; sourceTree = "<group>"; };
+		F0BCBDCB19A1162500854C92 /* SummativeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SummativeViewController.h; sourceTree = "<group>"; };
+		F0BCBDCC19A1162500854C92 /* SummativeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SummativeViewController.m; sourceTree = "<group>"; };
+		F0BCBDCE19A1167500854C92 /* SummaryViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SummaryViewController.h; sourceTree = "<group>"; };
+		F0BCBDCF19A1167500854C92 /* SummaryViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SummaryViewController.m; sourceTree = "<group>"; };
+		F0BCBDD119A11D2800854C92 /* orionnebula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = orionnebula.jpg; sourceTree = "<group>"; };
+		F0BCBDD219A11D2800854C92 /* Battlestar-Galactica-ship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Battlestar-Galactica-ship.jpg"; sourceTree = "<group>"; };
+		F0BCBDD319A11D2800854C92 /* Stars.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Stars.jpg; sourceTree = "<group>"; };
+		F0BCBDD419A11D2800854C92 /* VolcanoNebula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = VolcanoNebula.jpg; sourceTree = "<group>"; };
+		F0BCBDD519A11D2800854C92 /* flamenebula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flamenebula.jpg; sourceTree = "<group>"; };
+		F0BCBDD619A11D2800854C92 /* swirlingnebula.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = swirlingnebula.jpg; sourceTree = "<group>"; };
+		F0CAE3121AE0DA5C009682CC /* mainbuilding.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mainbuilding.jpg; sourceTree = "<group>"; };
+		F0CAE3141AE0DAD8009682CC /* uinta1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = uinta1.jpg; sourceTree = "<group>"; };
+		F0DE414319B668AA00B6F15D /* AssessmentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AssessmentViewController.h; sourceTree = "<group>"; };
+		F0DE414419B668AA00B6F15D /* AssessmentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AssessmentViewController.m; sourceTree = "<group>"; };
+		F0DE414619B66E6100B6F15D /* ClassroomViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClassroomViewController.h; sourceTree = "<group>"; };
+		F0DE414719B66E6100B6F15D /* ClassroomViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClassroomViewController.m; sourceTree = "<group>"; };
+		F0EE0A131AB1FEBE0081042B /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		F0FFF6CE19749EE200FE53CD /* TeacherEvaluations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TeacherEvaluations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0FFF6D119749EE200FE53CD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		F0FFF6D319749EE200FE53CD /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -49,7 +175,6 @@
 		F0FFF6E719749EE200FE53CD /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		F0FFF6E919749EE200FE53CD /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		F0FFF6EF19749EE200FE53CD /* TeacherEvaluationsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TeacherEvaluationsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F0FFF6F019749EE200FE53CD /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		F0FFF6F819749EE200FE53CD /* TeacherEvaluationsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TeacherEvaluationsTests-Info.plist"; sourceTree = "<group>"; };
 		F0FFF6FA19749EE200FE53CD /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F0FFF6FC19749EE200FE53CD /* TeacherEvaluationsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TeacherEvaluationsTests.m; sourceTree = "<group>"; };
@@ -60,6 +185,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0EE0A141AB1FEBE0081042B /* MessageUI.framework in Frameworks */,
 				F0FFF6D419749EE200FE53CD /* CoreGraphics.framework in Frameworks */,
 				F0FFF6D619749EE200FE53CD /* UIKit.framework in Frameworks */,
 				F0FFF6D219749EE200FE53CD /* Foundation.framework in Frameworks */,
@@ -70,7 +196,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F0FFF6F119749EE200FE53CD /* XCTest.framework in Frameworks */,
 				F0FFF6F319749EE200FE53CD /* UIKit.framework in Frameworks */,
 				F0FFF6F219749EE200FE53CD /* Foundation.framework in Frameworks */,
 			);
@@ -101,10 +226,10 @@
 		F0FFF6D019749EE200FE53CD /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F0EE0A131AB1FEBE0081042B /* MessageUI.framework */,
 				F0FFF6D119749EE200FE53CD /* Foundation.framework */,
 				F0FFF6D319749EE200FE53CD /* CoreGraphics.framework */,
 				F0FFF6D519749EE200FE53CD /* UIKit.framework */,
-				F0FFF6F019749EE200FE53CD /* XCTest.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -112,11 +237,57 @@
 		F0FFF6D719749EE200FE53CD /* TeacherEvaluations */ = {
 			isa = PBXGroup;
 			children = (
+				F037E09819B2695C00504A0E /* net_addimage_dropdownmenuAppDelegate.h */,
+				F037E09919B2695C00504A0E /* net_addimage_dropdownmenuAppDelegate.m */,
+				F037E09A19B2695C00504A0E /* net_addimage_dropdownmenuViewController.h */,
+				F037E09B19B2695C00504A0E /* net_addimage_dropdownmenuViewController.m */,
+				F037E09C19B2695C00504A0E /* UIDropDownMenu.h */,
+				F037E09D19B2695C00504A0E /* UIDropDownMenu.m */,
 				F0FFF6E019749EE200FE53CD /* AppDelegate.h */,
 				F0FFF6E119749EE200FE53CD /* AppDelegate.m */,
 				F0FFF6E319749EE200FE53CD /* Main.storyboard */,
+				F006387A19B6888000E7F8B1 /* LearningViewController.h */,
+				F006387B19B6888000E7F8B1 /* LearningViewController.m */,
+				F006387719B6824500E7F8B1 /* ProfessionalViewController.h */,
+				F006387819B6824500E7F8B1 /* ProfessionalViewController.m */,
+				F0DE414619B66E6100B6F15D /* ClassroomViewController.h */,
+				F0DE414719B66E6100B6F15D /* ClassroomViewController.m */,
+				F0DE414319B668AA00B6F15D /* AssessmentViewController.h */,
+				F0DE414419B668AA00B6F15D /* AssessmentViewController.m */,
+				F054DA8019B2D5BB00377D72 /* CurriculumViewController.h */,
+				F054DA8119B2D5BB00377D72 /* CurriculumViewController.m */,
+				F037E0A419B2735600504A0E /* PurposeViewController.h */,
+				F037E0A519B2735600504A0E /* PurposeViewController.m */,
+				F037E0A119B26F2B00504A0E /* StandardsViewController.h */,
+				F037E0A219B26F2B00504A0E /* StandardsViewController.m */,
+				F0543403199339300023F3BC /* LoggedInController.h */,
+				F0543404199339300023F3BC /* LoggedInController.m */,
 				F0FFF6E619749EE200FE53CD /* ViewController.h */,
 				F0FFF6E719749EE200FE53CD /* ViewController.m */,
+				F0B56A89199FF3640043CE2B /* SchoolTableViewController.h */,
+				F0B56A8A199FF3640043CE2B /* SchoolTableViewController.m */,
+				F0B56A8C199FF62F0043CE2B /* SchoolTableCell.h */,
+				F0B56A8D199FF62F0043CE2B /* SchoolTableCell.m */,
+				F0B56AA819A01E720043CE2B /* TeacherViewController.h */,
+				F0B56AA919A01E720043CE2B /* TeacherViewController.m */,
+				F0B56AAB19A024420043CE2B /* MenuViewController.h */,
+				F0B56AAC19A024430043CE2B /* MenuViewController.m */,
+				F04F050019A06D9000FFAAAB /* AddViewController.h */,
+				F04F050119A06D9000FFAAAB /* AddViewController.m */,
+				F070E95219A10FD10030D9B7 /* EvaluationViewController.h */,
+				F070E95319A10FD10030D9B7 /* EvaluationViewController.m */,
+				F0BCBDC219A1104200854C92 /* IntakeViewController.h */,
+				F0BCBDC319A1104200854C92 /* IntakeViewController.m */,
+				F016A24219B2C48C000BEDE6 /* StudentEngagementViewController.h */,
+				F016A24319B2C48C000BEDE6 /* StudentEngagementViewController.m */,
+				F0BCBDC519A115E900854C92 /* FormativeViewController.h */,
+				F0BCBDC619A115E900854C92 /* FormativeViewController.m */,
+				F0BCBDC819A1160A00854C92 /* LessonViewController.h */,
+				F0BCBDC919A1160A00854C92 /* LessonViewController.m */,
+				F0BCBDCB19A1162500854C92 /* SummativeViewController.h */,
+				F0BCBDCC19A1162500854C92 /* SummativeViewController.m */,
+				F0BCBDCE19A1167500854C92 /* SummaryViewController.h */,
+				F0BCBDCF19A1167500854C92 /* SummaryViewController.m */,
 				F0FFF6E919749EE200FE53CD /* Images.xcassets */,
 				F0FFF6D819749EE200FE53CD /* Supporting Files */,
 			);
@@ -126,7 +297,35 @@
 		F0FFF6D819749EE200FE53CD /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F016A25119B2CFDE000BEDE6 /* venusglobe.jpg */,
+				F016A24F19B2CFD7000BEDE6 /* uranus.jpg */,
+				F016A24D19B2CFC8000BEDE6 /* saturn.jpg */,
+				F016A24B19B2CFBC000BEDE6 /* Neptune.jpg */,
+				F016A24919B2CFB3000BEDE6 /* mars.jpg */,
+				F016A24719B2CFAB000BEDE6 /* mercury.jpg */,
+				F016A24519B2CFA4000BEDE6 /* Jupiter.jpg */,
+				F0CAE3121AE0DA5C009682CC /* mainbuilding.jpg */,
+				F0BCBDD119A11D2800854C92 /* orionnebula.jpg */,
+				F0BCBDD219A11D2800854C92 /* Battlestar-Galactica-ship.jpg */,
+				F0BCBDD319A11D2800854C92 /* Stars.jpg */,
+				F0BCBDD419A11D2800854C92 /* VolcanoNebula.jpg */,
+				F0BCBDD519A11D2800854C92 /* flamenebula.jpg */,
+				F0BCBDD619A11D2800854C92 /* swirlingnebula.jpg */,
+				F04F04FB19A04F9500FFAAAB /* space.jpg */,
+				F04F04F919A04F3200FFAAAB /* hubble.jpg */,
+				F04F04F719A04E5C00FFAAAB /* nebula.jpg */,
+				F0B56A8F199FFBAD0043CE2B /* SmallEHS12.jpg */,
+				F0B56A90199FFBAD0043CE2B /* SmallUME11.jpg */,
+				F0B56A91199FFBAD0043CE2B /* SmallNorth11.jpg */,
+				F0B56A92199FFBAD0043CE2B /* SmallClark1a1.jpg */,
+				F0B56A93199FFBAD0043CE2B /* SmallAspen11.jpg */,
+				F0B56A94199FFBAD0043CE2B /* SmallEMS11.jpg */,
+				F0B56A95199FFBAD0043CE2B /* SmallDMS11.jpg */,
+				F0CAE3141AE0DAD8009682CC /* uinta1.jpg */,
+				F0B56A96199FFBAD0043CE2B /* small_1_HHS_Front.jpg */,
 				F0FFF6D919749EE200FE53CD /* TeacherEvaluations-Info.plist */,
+				F0960FE2199F0D0600FA5C7B /* Logo.png */,
+				F0960FE4199F0D4F00FA5C7B /* sound_of_space.jpg */,
 				F0FFF6DA19749EE200FE53CD /* InfoPlist.strings */,
 				F0FFF6DD19749EE200FE53CD /* main.m */,
 				F0FFF6DF19749EE200FE53CD /* TeacherEvaluations-Prefix.pch */,
@@ -228,9 +427,37 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0B56A98199FFBAD0043CE2B /* SmallUME11.jpg in Resources */,
+				F0BCBDDB19A11D2800854C92 /* flamenebula.jpg in Resources */,
+				F0960FE3199F0D0600FA5C7B /* Logo.png in Resources */,
+				F0B56A97199FFBAD0043CE2B /* SmallEHS12.jpg in Resources */,
+				F0B56A9C199FFBAD0043CE2B /* SmallEMS11.jpg in Resources */,
+				F04F04FC19A04F9500FFAAAB /* space.jpg in Resources */,
+				F0CAE3131AE0DA5C009682CC /* mainbuilding.jpg in Resources */,
+				F0BCBDD819A11D2800854C92 /* Battlestar-Galactica-ship.jpg in Resources */,
+				F016A24C19B2CFBC000BEDE6 /* Neptune.jpg in Resources */,
+				F0B56A9D199FFBAD0043CE2B /* SmallDMS11.jpg in Resources */,
 				F0FFF6EA19749EE200FE53CD /* Images.xcassets in Resources */,
+				F016A24819B2CFAB000BEDE6 /* mercury.jpg in Resources */,
+				F04F04FA19A04F3200FFAAAB /* hubble.jpg in Resources */,
+				F016A24A19B2CFB3000BEDE6 /* mars.jpg in Resources */,
+				F0BCBDDA19A11D2800854C92 /* VolcanoNebula.jpg in Resources */,
+				F0BCBDDC19A11D2800854C92 /* swirlingnebula.jpg in Resources */,
+				F04F04F819A04E5C00FFAAAB /* nebula.jpg in Resources */,
+				F0BCBDD719A11D2800854C92 /* orionnebula.jpg in Resources */,
+				F0B56A9E199FFBAD0043CE2B /* small_1_HHS_Front.jpg in Resources */,
 				F0FFF6DC19749EE200FE53CD /* InfoPlist.strings in Resources */,
+				F0B56A9A199FFBAD0043CE2B /* SmallClark1a1.jpg in Resources */,
+				F016A25219B2CFDE000BEDE6 /* venusglobe.jpg in Resources */,
+				F0BCBDD919A11D2800854C92 /* Stars.jpg in Resources */,
+				F0B56A99199FFBAD0043CE2B /* SmallNorth11.jpg in Resources */,
+				F016A24E19B2CFC8000BEDE6 /* saturn.jpg in Resources */,
+				F016A25019B2CFD7000BEDE6 /* uranus.jpg in Resources */,
 				F0FFF6E519749EE200FE53CD /* Main.storyboard in Resources */,
+				F0960FE5199F0D5000FA5C7B /* sound_of_space.jpg in Resources */,
+				F0B56A9B199FFBAD0043CE2B /* SmallAspen11.jpg in Resources */,
+				F016A24619B2CFA4000BEDE6 /* Jupiter.jpg in Resources */,
+				F0CAE3151AE0DAD8009682CC /* uinta1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,9 +476,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F037E09E19B2695C00504A0E /* net_addimage_dropdownmenuAppDelegate.m in Sources */,
+				F054DA8219B2D5BB00377D72 /* CurriculumViewController.m in Sources */,
+				F0BCBDC719A115E900854C92 /* FormativeViewController.m in Sources */,
+				F0B56A8E199FF62F0043CE2B /* SchoolTableCell.m in Sources */,
+				F037E0A619B2735600504A0E /* PurposeViewController.m in Sources */,
 				F0FFF6E819749EE200FE53CD /* ViewController.m in Sources */,
 				F0FFF6E219749EE200FE53CD /* AppDelegate.m in Sources */,
+				F037E0A019B2695C00504A0E /* UIDropDownMenu.m in Sources */,
+				F0B56AAD19A024430043CE2B /* MenuViewController.m in Sources */,
+				F0BCBDCA19A1160A00854C92 /* LessonViewController.m in Sources */,
+				F0BCBDCD19A1162500854C92 /* SummativeViewController.m in Sources */,
 				F0FFF6DE19749EE200FE53CD /* main.m in Sources */,
+				F0BCBDD019A1167500854C92 /* SummaryViewController.m in Sources */,
+				F0B56A8B199FF3640043CE2B /* SchoolTableViewController.m in Sources */,
+				F0543405199339300023F3BC /* LoggedInController.m in Sources */,
+				F0B56AAA19A01E720043CE2B /* TeacherViewController.m in Sources */,
+				F0BCBDC419A1104200854C92 /* IntakeViewController.m in Sources */,
+				F006387919B6824500E7F8B1 /* ProfessionalViewController.m in Sources */,
+				F070E95419A10FD10030D9B7 /* EvaluationViewController.m in Sources */,
+				F0DE414519B668AA00B6F15D /* AssessmentViewController.m in Sources */,
+				F006387C19B6888000E7F8B1 /* LearningViewController.m in Sources */,
+				F016A24419B2C48C000BEDE6 /* StudentEngagementViewController.m in Sources */,
+				F04F050219A06D9000FFAAAB /* AddViewController.m in Sources */,
+				F037E0A319B26F2B00504A0E /* StandardsViewController.m in Sources */,
+				F0DE414819B66E6100B6F15D /* ClassroomViewController.m in Sources */,
+				F037E09F19B2695C00504A0E /* net_addimage_dropdownmenuViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,6 +706,7 @@
 				F0FFF70219749EE200FE53CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F0FFF70319749EE200FE53CD /* Build configuration list for PBXNativeTarget "TeacherEvaluationsTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +715,7 @@
 				F0FFF70519749EE200FE53CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
